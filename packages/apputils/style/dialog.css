@@ -81,6 +81,7 @@ button.jp-Dialog-close-button {
   font-size: var(--jp-ui-font-size1);
   background: var(--jp-layout-color1);
   overflow: auto;
+  white-space: pre;
 }
 
 .jp-Dialog-footer {
